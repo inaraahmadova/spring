@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|c:\\users\\ca.r214.05\\desktop\\spering1\\spering1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\dataacceslayer\\speringcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\dataacceslayer\\speringcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95C4E17-3E59-43B7-9E51-309CD6E3E60D}|spering1\\spering1.csproj|solutionrelative:spering1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "spering1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "spering1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T09:33:36.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "spering1\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "spering1\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:41:57.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "spering1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Models\\Category.cs",
+              "RelativeToolTip": "spering1\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:41:20.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "spering1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "spering1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T06:35:27.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "spering1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "spering1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T06:35:12.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "spering1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "spering1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T06:34:53.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "spering1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "spering1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T06:34:03.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "spering1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "spering1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:33:28.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "spering1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "spering1\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T05:59:50.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SperingContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\DataAccesLayer\\SperingContext.cs",
+              "RelativeDocumentMoniker": "spering1\\DataAccesLayer\\SperingContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\DataAccesLayer\\SperingContext.cs",
+              "RelativeToolTip": "spering1\\DataAccesLayer\\SperingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:51:26.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "spering1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "spering1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAMUBAAAAAAAAAAAYwN0BAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T05:45:52.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "spering1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "spering1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T05:45:01.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Program.cs",
+              "RelativeDocumentMoniker": "spering1\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Program.cs",
+              "RelativeToolTip": "spering1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:44:39.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "spering1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "spering1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T05:44:20.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "spering1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.05\\Desktop\\spering1\\spering1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "spering1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:42:25.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
